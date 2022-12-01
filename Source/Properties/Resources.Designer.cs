@@ -19,7 +19,7 @@ namespace AdventOfCode.Properties {
     // class via a tool like ResGen or Visual Studio.
     // To add or remove a member, edit your .ResX file then rerun ResGen
     // with the /str option, or rebuild your VS project.
-    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "16.0.0.0")]
+    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "17.0.0.0")]
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
     internal class Resources {
@@ -61,7 +61,96 @@ namespace AdventOfCode.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to .
+        ///   Looks up a localized string similar to 2832
+        ///2108
+        ///3082
+        ///4328
+        ///6843
+        ///5121
+        ///2869
+        ///1366
+        ///2358
+        ///1680
+        ///4980
+        ///1161
+        ///
+        ///8026
+        ///2154
+        ///4242
+        ///1023
+        ///2744
+        ///3162
+        ///4093
+        ///1150
+        ///5397
+        ///2738
+        ///5657
+        ///
+        ///10954
+        ///11208
+        ///8034
+        ///1636
+        ///9430
+        ///9421
+        ///5025
+        ///
+        ///3837
+        ///5938
+        ///3967
+        ///2942
+        ///2727
+        ///3623
+        ///4070
+        ///1748
+        ///1795
+        ///1687
+        ///4023
+        ///6068
+        ///2558
+        ///2570
+        ///4214
+        ///
+        ///9679
+        ///2986
+        ///5168
+        ///16463
+        ///
+        ///5912
+        ///6008
+        ///1259
+        ///5378
+        ///10740
+        ///1642
+        ///2617
+        ///7821
+        ///
+        ///3840
+        ///5265
+        ///2104
+        ///1510
+        ///5477
+        ///2636
+        ///5920
+        ///5939
+        ///5430
+        ///4482
+        ///5603
+        ///4915
+        ///5416
+        ///5897
+        ///
+        ///3932
+        ///9344
+        ///7536
+        ///4925
+        ///10088
+        ///5253
+        ///5625
+        ///6800
+        ///
+        ///3928
+        ///13714
+        ///1899 [rest of string was truncated]&quot;;.
         /// </summary>
         internal static string Day01 {
             get {
