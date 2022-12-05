@@ -270,7 +270,21 @@ namespace AdventOfCode.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to .
+        ///   Looks up a localized string similar to BdbzzddChsWrRFbzBrszbhWMLNJHLLLLHZtSLglFNZHLJH
+        ///nnfMwqpQTMffHlNNLllHnZSS
+        ///cGpcMwfppfqcjcTCBBzWDsDbDrjzWz
+        ///LhfjhcdjcGdhFfdGfdjdvwCCZMvvLvWwMLCLSwZC
+        ///rDnsbmptPmlbQMCrQWQQBZQW
+        ///gltgVPngDPbptPsbPzVgmDldfTdfczThjJJjfMcJdFHjjH
+        ///dGlgDflTLLLrRLTLVdQLcQMnbvHbbFzNNvMbnHHn
+        ///sZjWJJCSjWqfCqSjSmJSbFvCzBMBBzHncHNvMBHN
+        ///twqqwpZwfrlwRwDGDR
+        ///zCGGFTQMQrsNRNGZdR
+        ///cLLQgPDpgcgmvPRHrwBdvrNZ
+        ///glWpmJWQDcJpQnpjSmbhFtMnqFfCVTCFCFFM
+        ///zNZWFNZBFrGTdBcZZBdJTrGrmgvppgDHwHmgVHCHCvCPDjzC
+        ///qtqqPnLSfLwvjvvgvvqH
+        ///MtbLLLQbRfPRfnbnnLMtnsbdBNsrGW [rest of string was truncated]&quot;;.
         /// </summary>
         internal static string Day03 {
             get {
