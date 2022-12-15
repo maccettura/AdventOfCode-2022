@@ -343,7 +343,25 @@ namespace AdventOfCode.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to .
+        ///   Looks up a localized string similar to [N]             [R]             [C]
+        ///[T] [J]         [S] [J]         [N]
+        ///[B] [Z]     [H] [M] [Z]         [D]
+        ///[S] [P]     [G] [L] [H] [Z]     [T]
+        ///[Q] [D]     [F] [D] [V] [L] [S] [M]
+        ///[H] [F] [V] [J] [C] [W] [P] [W] [L]
+        ///[G] [S] [H] [Z] [Z] [T] [F] [V] [H]
+        ///[R] [H] [Z] [M] [T] [M] [T] [Q] [W]
+        /// 1   2   3   4   5   6   7   8   9 
+        ///
+        ///move 3 from 9 to 7
+        ///move 4 from 4 to 5
+        ///move 2 from 4 to 6
+        ///move 4 from 7 to 5
+        ///move 3 from 7 to 3
+        ///move 2 from 5 to 9
+        ///move 5 from 6 to 3
+        ///move 5 from 9 to 1
+        ///move 3 from 8 to  [rest of string was truncated]&quot;;.
         /// </summary>
         internal static string Day05 {
             get {
@@ -352,7 +370,7 @@ namespace AdventOfCode.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to .
+        ///   Looks up a localized string similar to bfdbbngnvnsvshhhrvrbrtbrrhqrqgrrmmdfmmqttptltntrntrnrcrdcrrctctdtwtrwwmlltcltcllmpprvvtbbmbvbsvvqwvvscswsqqgzqqppvzppnddjwddlrdlllmwllfccdfccswwrhhndhdhfdftdfdcdcllcjjbsbgssvlvrrhfrfjfpjffvnfvfwfzftztwwrhwrhwhwddpjjmhmgmsssstzszqzfqzzprpzpnndttphtpphvvcpcjppdtdwwqgwwwnhwnnvhvsvqqtrrbsscwssgwglgwlldjdzjjbsjbsbvvpbvppvfvqvbqbzzwtwbwpbbbcffdgggpnpfptpfphfhfthfthffzrrbzbcblbmmzmhhnvvqvlvwvzvtztgzznbbcqbccwhcwcnwnhndhhgcghhlthllplvppgngrgsswfsfnfjjswstsrtrhthhqzqggdtggzvvjljddqdzzrmrjmjcmjmrrwlldttrhhfjjgbglgjll [rest of string was truncated]&quot;;.
         /// </summary>
         internal static string Day06 {
             get {
